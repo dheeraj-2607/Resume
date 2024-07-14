@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+    position: relative;
+    left: 350px;
+    top: -10px;
+}
+h1{
+    text-decoration-line: underline;
+    text-align: center;
+    position: relative;
+    top: 120px;
+    color: antiquewhite;
+    font-family:"Rubik",serif;
+}
+h2{
+    text-decoration-line: underline;
+    position:relative ;
+    top: -20px;
+    font-family:"Rubik",serif;
+}
+
+body h3{
+    text-indent: 0%;
+    background-color: white;
+    color: black;
+    margin-inline: 100px;
+    text-transform: uppercase;
+    font-family: "Quicksand",serif;
+}
+footer{
+    position: absolute;
+}
+
+
+
